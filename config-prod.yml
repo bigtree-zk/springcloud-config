@@ -1,2 +1,2 @@
-config-prod:
-        info: this is config-prod.yml version=000001
+config:
+    info: this is config-prod.yml version=000001
